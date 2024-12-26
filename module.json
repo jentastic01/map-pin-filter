@@ -1,0 +1,23 @@
+{
+    "id": "map-pin-filter",
+    "title": "Map Pin Filter",
+    "description": "A module to filter your map pins",
+    "version": "0.0.1",
+    "packs": [],
+    "scripts": [],
+    "compatibility": {
+      "minimum": "9",
+      "verified": "12",
+      "maximum": "12"
+    },
+    "languages": [
+      {
+        "lang": "en",
+        "name": "English",
+        "path": "src/languages/en.json"
+      }
+    ],
+    "styles": ["src/styles/style.css"],
+    "esmodules": ["src/scripts/module.js"]
+  }
+  

@@ -1,18 +1,18 @@
 {
-  "$schema": "https://json.schemastore.org/foundryvtt-manifest.json",
-  "id": "foundry-module-ts",
-  "title": "Typescript Template Module",
-  "description": "A template module using Typescript. You should change name, title, and description in module.json.",
-  "version": "1.0.0",
-  "packs": [],
-  "system": [],
-  "dependencies": [],
-  "scripts": [],
-  "compatibility": {
-    "minimum": "9",
-    "verified": "10",
-    "maximum": "10"
-  },
+  "schema": "https://json.schemastore.org/foundryvtt-template.json",
+    "id": "map-pin-filter",
+    "title": "Map Pin Filter",
+    "description": "A module to filter your map pins",
+    "version": "0.0.1",
+    "packs": [],
+    "relationships.systems": [],
+    "relationships.requires": [],
+    "scripts": [],
+    "compatibility": {
+      "minimum": "9",
+      "verified": "12",
+      "maximum": "12"
+    },
   "languages": [
     {
       "lang": "en",
